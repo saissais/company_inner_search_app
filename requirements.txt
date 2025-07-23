@@ -3,5 +3,7 @@ openai
 chromadb
 python-dotenv
 langchain
-tiktoken
 langchain-openai
+langchain-community
+pymupdf
+docx2txt
