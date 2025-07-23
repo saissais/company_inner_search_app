@@ -4,3 +4,4 @@ chromadb
 python-dotenv
 langchain
 tiktoken
+langchain-openai
